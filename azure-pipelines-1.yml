@@ -4,7 +4,7 @@ trigger:
 variables:
   BuildConfiguration: 'Release'
   WebAppName: 'demo-webapp-18-01'   # <-- change this
-  AzureServiceConnection: 'demo-webapp-18-01'  # <-- change this
+  AzureServiceConnection: 'SC-Azure-Demo'  # <-- change this
 
 stages:
 # =========================
